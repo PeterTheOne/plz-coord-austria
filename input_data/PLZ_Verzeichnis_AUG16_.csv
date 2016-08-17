@@ -1,0 +1,2653 @@
+PLZ,Ort,Bundesland,gültig ab,gültig bis,NamePLZTyp,intern_extern,adressierbar,Postfach
+1000,Wien,W,01.08.2009,,PLZ-Postfach,extern,Nein,Ja
+1004,Wien,W,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+1006,Wien,W,01.02.2015,,PLZ-Postfach,extern,Nein,Ja
+1010,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1011,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1013,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1015,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1016,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1017,Wien-Parlament,W,22.04.2015,,InteressentenPLZ,extern,Nein,Ja
+1018,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1020,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1021,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1022,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1023,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1024,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1025,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1026,Wien,W,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+1027,Wien,W,01.09.2013,,PLZ-Postfach,extern,Nein,Ja
+1029,Wien,W,30.07.2004,,InteressentenPLZ,extern,Nein,Ja
+1030,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1031,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1032,Wien,W,22.08.2012,,PLZ-Postfach,extern,Nein,Ja
+1033,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1034,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1035,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1037,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1038,Wien,W,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+1039,Wien,W,01.08.2005,,InteressentenPLZ,extern,Nein,Ja
+1040,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1041,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1042,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1043,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1045,Wien,W,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+1046,Wien,W,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+1047,Wien,W,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+1050,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1051,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1052,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1053,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1054,Wien,W,01.05.2011,,PLZ-Postfach,extern,Nein,Ja
+1060,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1061,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1062,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1063,Wien-VÖPh,W,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+1064,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1065,Wien,W,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+1070,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1071,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1072,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1075,Wien,W,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+1080,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1081,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1082,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1090,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1091,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1092,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1093,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1094,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1095,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1097,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1100,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1101,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1102,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1103,Wien,W,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+1104,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1105,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1106,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1107,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1108,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1109,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1110,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1111,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1113,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1114,Wien,W,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+1115,Wien,W,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+1117,Wien,W,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+1120,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1121,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1122,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1124,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1125,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1127,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1128,Wien,W,01.08.2012,,PLZ-Postfach,extern,Nein,Ja
+1130,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1131,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1132,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1133,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1134,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1136,Wien,W,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+1140,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1141,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1142,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1143,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1146,Wien,W,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+1147,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1148,Wien,W,31.03.2003,,InteressentenPLZ,extern,Nein,Ja
+1150,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1151,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1152,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1153,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1155,Wien,W,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+1156,Wien,W,01.03.2013,,PLZ-Postfach,extern,Nein,Ja
+1160,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1161,Wien Postfach,W,08.12.2005,,PLZ-Postfach,extern,Nein,Ja
+1162,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1163,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1165,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1166,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1170,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1171,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1172,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1173,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1174,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1180,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1181,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1182,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1183,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1184,Wien,W,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+1190,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1191,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1192,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1193,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1194,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1195,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1196,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1200,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1201,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1203,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1205,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1206,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1208,Wien,W,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+1210,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1211,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1212,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1213,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1214,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1215,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1217,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1218,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1219,Wien,W,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+1220,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1221,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1222,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1223,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1224,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1225,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1227,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1228,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1229,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1230,Wien,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1231,Wien Postfach,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1233,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1235,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1236,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1238,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1239,Wien,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1251,Wien,W,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+1252,Wien,W,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+1253,Wien,W,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+1254,Wien,W,01.11.2012,,PLZ-Postfach,extern,Nein,Ja
+1255,Wien,W,01.01.2013,,PLZ-Postfach,extern,Nein,Ja
+1300,Wien-Flughafen,W,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+1301,Wien,W,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+1310,Wien,W,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+1321,Wien,W,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+1400,Wien-Vereinte Nationen,W,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+1402,Wien,W,01.11.2005,,PLZ-Postfach,extern,Nein,Ja
+1421,Wien,W,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+1423,Wien,W,01.06.2005,,PLZ-Postfach,extern,Nein,Ja
+1500,UNDOF AUTCON,W,01.01.1966,,FeldPLZ,extern,Nein,Ja
+1502,AUTCON EUFOR,W,01.01.1966,,FeldPLZ,extern,Nein,Ja
+1503,AUTCON KFOR,W,01.01.1966,,FeldPLZ,extern,Nein,Ja
+1600,Wien,W,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+1601,Wien,W,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+1810,Wien,W,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+1901,Wien,W,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+2000,Stockerau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2002,Großmugl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2003,Leitzersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2004,Niederhollabrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2011,Sierndorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2013,Göllersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2014,Breitenwaida,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2020,Hollabrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2022,Immendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2023,Nappersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2024,Mailberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2031,Eggendorf im Thale,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2032,Enzersdorf im Thale,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2033,Kammersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2034,Großharras,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2041,Wullersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2042,Guntersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2051,Zellerndorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2052,Pernersdorf-Pfaffendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2053,Jetzelsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2054,Haugsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2061,Hadres,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2062,Seefeld-Großkadolz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2063,Zwingendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2064,Wulzeshofen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2070,Retz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2073,Schrattenthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2074,Unterretzbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2081,Niederfladnitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2082,Hardegg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2083,Pleißing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2084,Weitersfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2091,Langau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2092,Riegersburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2093,Geras,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2094,Zissersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2095,Drosendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2100,Korneuburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2102,Bisamberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2103,Langenzersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2104,Spillern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2105,Oberrohrbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2106,Klein-Engersdorf,N,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+2111,Rückersdorf-Harmannsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2112,Würnitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2113,Karnabrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2114,Großrußbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2115,Ernstbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2116,Niederleis,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2120,Wolkersdorf im Weinviertel,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2122,Ulrichskirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2123,Schleinbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2124,Niederkreuzstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2125,Neubau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2126,Ladendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2127,Hautzendorf,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2128,Wolfpassing,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2130,Mistelbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2132,Frättingsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2133,Loosdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2134,Staatz-Kautendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2135,Neudorf bei Staatz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2136,Laa an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2137,Eibesthal,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2141,Ameis,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2143,Großkrut,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2144,Altlichtenwarth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2145,Hausbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2151,Asparn an der Zaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2152,Gnadendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2153,Stronsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2154,Unterstinkenbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2161,Poysbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2162,Falkenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2163,Ottenthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2164,Wildendürnbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2165,Drasenhofen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2170,Poysdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2171,Herrnbaumgarten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2172,Schrattenberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2173,Kleinhadersdorf,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2181,Dobermannsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2182,Palterndorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2183,Neusiedl an der Zaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2184,Hauskirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2185,Prinzendorf an der Zaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2191,Gaweinstal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2192,Kettlasbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2193,Wilfersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2201,Gerasdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2202,Enzersfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2203,Großebersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2211,Pillichsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2212,Großengersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2213,Bockfließ,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2214,Auersthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2215,Raggendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2221,Groß Schweinbarth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2222,Bad Pirawarth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2223,Hohenruppersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2224,Obersulz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2225,Zistersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2230,Gänserndorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2231,Strasshof an der Nordbahn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2232,Deutsch Wagram,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2241,Schönkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2242,Prottes,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2243,Matzen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2244,Spannberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2245,Velm-Götzendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2251,Ebenthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2252,Ollersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2253,Weikendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2261,Angern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2262,Stillfried,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2263,Dürnkrut,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2264,Jedenspeigen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2265,Drösing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2272,Niederabsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2273,Hohenau an der March,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2274,Rabensburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2275,Bernhardsthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2276,Reintal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2281,Raasdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2282,Markgrafneusiedl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2283,Obersiebenbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2284,Untersiebenbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2285,Leopoldsdorf im Marchfelde,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2286,Haringsee,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2291,Lassee,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2292,Engelhartstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2293,Marchegg Stadt,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2294,Marchegg Bahnhof,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2295,Oberweiden,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2301,Groß-Enzersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2304,Orth an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2305,Eckartsau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2320,Schwechat,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2322,Zwölfaxing,N,01.10.2004,,PLZ-Adressierung,extern,Ja,Ja
+2324,Schwechat-Rannersdorf,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2325,Himberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2326,Maria Lanzendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2331,Vösendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2332,Hennersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2333,Leopoldsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2334,Vösendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2340,Mödling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2342,Mödling,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2344,Maria Enzersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2345,Brunn am Gebirge,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2346,Maria Enzersdorf-Südstadt,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2348,Mödling,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2349,Mödling,N,01.03.2012,,PLZ-Postfach,extern,Nein,Ja
+2351,Wiener Neudorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2352,Gumpoldskirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2353,Guntramsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2355,Wiener Neudorf,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2356,Wiener Neudorf,N,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+2361,Laxenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2362,Biedermannsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2371,Hinterbrühl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2372,Gießhübl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2380,Perchtoldsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2381,Laab im Walde,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2382,Perchtoldsdorf,N,01.03.2012,,PLZ-Postfach,extern,Nein,Ja
+2384,Breitenfurt bei Wien,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2391,Kaltenleutgeben,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2392,Sulz im Wienerwald,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2393,Sittendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2401,Fischamend,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2402,Maria Ellend,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2403,Regelsbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2404,Petronell,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2405,Bad Deutsch Altenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2406,Haslau an der Donau,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2410,Hainburg an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2412,Wolfsthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2413,Berg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2421,Kittsee,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2422,Pama,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2423,Deutsch Jahrndorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2424,Zurndorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2425,Nickelsdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2431,Kleinneusiedl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2432,Schwadorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2433,Margarethen am Moos,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2434,Götzendorf an der Leitha,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2435,Ebergassing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2440,Gramatneusiedl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2441,Mitterndorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2442,Unterwaltersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2443,Deutsch-Brodersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2444,Seibersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2445,Leithaprodersdorf,N,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+2451,Hof am Leithaberge,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2452,Mannersdorf am Leithagebirge,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2453,Sommerein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2454,Trautmannsdorf an der Leitha,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2460,Bruck an der Leitha,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2462,Wilfleinsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2463,Stixneusiedl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2464,Göttlesbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2465,Höflein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2471,Rohrau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2472,Prellenkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2473,Potzneusiedl,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2474,Gattendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2475,Neudorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2481,Achau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2482,Münchendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2483,Ebreichsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2484,"Weigelsdorf, Fischa",N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2485,Wampersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2486,Pottendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2490,Ebenfurth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2491,Neufeld an der Leitha,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2492,Eggendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2493,Lichtenwörth-Nadelburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2500,Baden,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2502,Baden-Leesdorf,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2503,Baden,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+2504,Sooß,N,01.12.2012,,PLZ-Adressierung,extern,Ja,Nein
+2505,Baden-Leesdorf,N,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+2511,Pfaffstätten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2512,Tribuswinkel,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2513,Traiskirchen,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2514,Traiskirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2521,Trumau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2522,Oberwaltersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2523,Tattendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2524,Teesdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2525,Günselsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2531,Gaaden,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2532,Heiligenkreuz im Wienerwald,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2533,Klausen-Leopoldsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2534,Alland,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2540,Bad Vöslau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2542,Kottingbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2544,Leobersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2551,Enzesfeld-Lindabrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2552,Hirtenberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2560,Berndorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2563,Pottenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2564,Weissenbach an der Triesting,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2565,Neuhaus,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2571,Altenmarkt-Thenneberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2572,Kaumberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2601,Sollenau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2602,Blumau-Neurißhof,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2603,Felixdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2604,Theresienfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2620,Neunkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2624,Breitenau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2625,Schwarzau am Steinfelde,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2630,Ternitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2631,Sieding-Stixenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2632,Wimpassing im Schwarzatale,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2640,Gloggnitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2641,Schottwien,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2642,Maria Schutz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2650,Payerbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2651,Reichenau an der Rax,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2654,Prein an der Rax,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2661,Naßwald,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2662,Schwarzau im Gebirge,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2663,Rohr im Gebirge,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2671,Küb,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2673,Breitenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2680,Semmering,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2700,Wiener Neustadt,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2702,Wiener Neustadt,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2703,Wiener Neustadt,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+2705,Wiener Neustadt,N,01.12.2001,,PLZ-Postfach,extern,Nein,Ja
+2706,Wiener Neustadt,N,27.12.2000,,InteressentenPLZ,extern,Nein,Ja
+2707,Wiener Neustadt,N,01.01.2010,,PLZ-Postfach,extern,Nein,Ja
+2721,Bad Fischau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2722,Winzendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2723,Muthmannsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2724,Hohe Wand-Stollhof,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2731,St. Egyden,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2732,Willendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2733,Grünbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2734,Puchberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2751,Steinabrückl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2752,Wöllersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2753,Markt Piesting,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2754,Waldegg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2755,Oed,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2761,Miesenbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2763,Pernitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2770,Gutenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2801,Katzelsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2802,Hochwolkersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2803,Schwarzenbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2811,Wiesmath,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2812,Hollenthon,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2813,Lichtenegg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2821,Lanzenkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2822,Bad Erlach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2823,Pitten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2824,Seebenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2831,Warth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2832,Thernberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2833,Bromberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2840,Grimmenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2842,Edlitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2851,Krumbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2852,Hochneukirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2853,Bad Schönau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2860,Kirchschlag in der Buckligen Welt,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2870,Aspang,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2871,Zöbern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2872,Mönichkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2873,Feistritz am Wechsel,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+2880,Kirchberg am Wechsel,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+2881,Trattenbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3001,Mauerbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3002,Purkersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3003,Gablitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3004,Ried am Riederberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3011,Untertullnerbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3012,Wolfsgraben,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3013,Tullnerbach-Lawies,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3021,Pressbaum,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3031,Rekawinkel,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3032,Eichgraben,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3033,Altlengbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3034,Maria Anzbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3040,Neulengbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3041,Asperhofen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3042,Würmla,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3051,St. Christophen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3052,Innermanzing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3053,Laaben,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3061,Ollersbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3062,Kirchstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3071,Böheimkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3072,Kasten bei Böheimkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3073,Stössing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3074,Michelbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3100,St. Pölten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3101,St. Pölten Postfach,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3103,St. Pölten,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3104,St. Pölten-Harland,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3105,St. Pölten-Radlberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3106,St. Pölten-Spratzern,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3107,St. Pölten-Traisenpark,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3108,St. Pölten-Wagram,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3109,St. Pölten,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3110,Neidling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3111,St. Pölten,N,13.10.2007,,PLZ-Postfach,extern,Nein,Ja
+3114,St. Pölten,N,01.01.2011,,PLZ-Postfach,extern,Nein,Ja
+3121,Karlstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3122,Gansbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3123,Obritzberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3124,Oberwölbling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3125,Statzendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3130,Herzogenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3131,Getzersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3133,Traismauer,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3134,Nußdorf,N,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+3140,Pottenbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3141,Kapelln,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3142,Perschling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3143,Pyhra,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3144,Wald,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3150,Wilhelmsburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3151,St. Georgen am Steinfelde,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3153,Eschenau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3160,Traisen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3161,St. Veit an der Gölsen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3162,Rainfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3163,Rohrbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3170,Hainfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3171,Kleinzell-Salzerbad,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3172,Ramsau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3180,Lilienfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3182,"Marktl, Traisental",N,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+3183,Freiland,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3184,Türnitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3192,Hohenberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3193,St. Aegyd am Neuwalde,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3195,Kernhof,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3200,Ober-Grafendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3202,Hofstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3203,Rabenstein an der Pielach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3204,Kirchberg an der Pielach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3205,Weinburg,N,01.07.2010,,PLZ-Adressierung,extern,Ja,Ja
+3211,Loich,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3212,Schwarzenbach an der Pielach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3213,Frankenfels,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3214,Puchenstuben,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3221,Gösing an der Mariazellerbahn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3222,Annaberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3223,Wienerbruck,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3224,Mitterbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3231,St. Margarethen an der Sierning,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3232,Bischofstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3233,Kilb,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3240,Mank,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3241,Kirnberg an der Mank,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3242,Texing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3243,St. Leonhard am Forst,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3244,Ruprechtshofen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3250,Wieselburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3251,Purgstall,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3252,Petzenkirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3253,Erlauf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3254,Bergland,N,01.06.2013,,PLZ-Adressierung,extern,Ja,Nein
+3261,Steinakirchen am Forst,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3262,Wang,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3263,Randegg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3264,Gresten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3270,Scheibbs,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3281,Oberndorf an der Melk,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3282,St. Georgen an der Leys,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3283,St. Anton an der Jeßnitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3291,Kienberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3292,Gaming,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3293,Lunz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3294,Langau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3295,Lackenhof,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3300,Amstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3304,St. Georgen am Ybbsfelde,N,01.05.2006,,PLZ-Adressierung,extern,Ja,Nein
+3305,Amstetten,N,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+3311,Zeillern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3312,Oed,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3313,Wallsee,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3314,Strengberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3321,Ardagger,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3322,Viehdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3323,Neustadtl an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3324,Euratsfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3325,Ferschnitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3331,Kematen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3332,Rosenau am Sonntagberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3333,Böhlerwerk,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3334,Gaflenz,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3335,Weyer,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3340,Waidhofen an der Ybbs,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3341,Ybbsitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3342,Opponitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3343,Hollenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3344,St. Georgen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3345,Göstling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3350,Haag,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3351,Weistrach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3352,St. Peter in der Au,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3353,Seitenstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3354,Wolfsbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3355,Ertl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3356,Biberbach,N,01.01.2011,,PLZ-Postfach,extern,Nein,Ja
+3361,Aschbach Markt,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3362,Mauer-Öhling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3363,Ulmerfeld-Hausmening,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3364,Neuhofen an der Ybbs,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3365,Allhartsberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3366,Kühberg,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+3370,Ybbs an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3371,Neumarkt an der Ybbs,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3372,Blindenmarkt,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3373,Kemmelbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3374,Säusenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3375,Krummnußbaum,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3376,St. Martin-Karlsbach,N,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
+3380,Pöchlarn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3381,Golling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3382,Loosdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3383,Hürm,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3384,Groß Sierning,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3385,Prinzersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3386,Hafnerbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3387,Groß Sierning,N,01.01.2010,,PLZ-Postfach,extern,Nein,Ja
+3388,Markersdorf an der Pielach,N,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+3390,Melk,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3392,Schönbühel an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3393,Matzleinsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3400,Klosterneuburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3402,Klosterneuburg,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3404,Klosterneuburg,N,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+3413,Hintersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3420,Kritzendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3421,Höflein an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3422,Greifenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3423,St. Andrä-Wördern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3424,Zeiselmauer,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3425,Langenlebarn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3426,Muckendorf-Wipfing,N,01.01.2011,,PLZ-Adressierung,extern,Ja,Ja
+3430,Tulln an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3433,Königstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3434,Tulbing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3435,Zwentendorf an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3441,Judenau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3442,Langenrohr,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3443,Sieghartskirchen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3451,Michelhausen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3452,Atzenbrugg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3454,Sitzenberg-Reidling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3455,Heiligeneich,N,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+3462,Absdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3463,Stetteldorf am Wagram,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3464,Hausleiten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3465,Königsbrunn am Wagram,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3470,Kirchberg am Wagram,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3471,Großriedenthal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3472,Hohenwarth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3473,Mühlbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3474,Altenwörth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3481,Fels am Wagram,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3482,Gösing am Wagram,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3483,Feuersbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3484,Grafenwörth,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3485,Haitzendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3491,Straß im Straßertale,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3492,Etsdorf am Kamp,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3493,Hadersdorf am Kamp,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3494,Gedersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3495,Rohrendorf bei Krems,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3500,Krems an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3501,Krems-Lerchenfeld,N,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+3502,Krems-Lerchenfeld,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3503,Krems-Rehberg,N,01.06.1966,,PLZ-Postfach,extern,Nein,Ja
+3504,Krems-Stein,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3505,Krems,N,01.06.2013,,PLZ-Postfach,extern,Nein,Ja
+3506,Krems-Hollenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3507,Krems-Mitterau,N,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+3508,Paudorf,N,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+3511,Furth bei Göttweig,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3512,Mautern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3521,Obermeisling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3522,Lichtenau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3524,Grainbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3525,Sallingberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3531,Niedernondorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3532,Rastenfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3533,Friedersbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3541,Senftenberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3542,Gföhl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3543,Krumau am Kamp,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3544,Idolsberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3550,Langenlois,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3552,Lengenfeld,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3553,Schiltern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3561,Zöbing,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3562,Schönberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3564,Plank am Kamp,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3571,Gars am Kamp,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3572,St. Leonhard am Hornerwald,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3573,Rosenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3580,Horn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3591,Altenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3592,Röhrenbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3593,Neupölla,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3594,Franzen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3595,Brunn an der Wild,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3601,Dürnstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3602,Rossatz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3610,Weißenkirchen in der Wachau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3611,Großheinrichschlag,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3613,Albrechtsberg an der Großen Krems,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3620,Spitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3621,Mitterarnsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3622,Mühldorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3623,Kottes,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3631,Ottenschlag,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3632,Bad Traunstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3633,Schönbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3641,Aggsbach Markt,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3642,Aggsbach Dorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3643,Maria Laach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3644,Emmersdorf an der Donau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3650,Pöggstall,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3652,Leiben,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3653,Weiten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3654,Raxendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3660,Klein-Pöchlarn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3661,Artstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3662,Münichreith,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3663,Laimbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3664,Martinsberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3665,Gutenbrunn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3671,Marbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3672,Maria Taferl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3680,Persenbeug,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3681,Hofamt Priel,N,01.03.2013,,PLZ-Adressierung,extern,Ja,Nein
+3683,Yspertal,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3684,St. Oswald,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3691,Nöchling,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3701,Großweikersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3702,Niederrußbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3704,Glaubendorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3710,Ziersdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3711,Großmeiseldorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3712,Maissau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3713,Harmannsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3714,Sitzendorf an der Schmida,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3720,Ravelsbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3721,Limberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3722,Straning,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3730,Eggenburg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3741,Pulkau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3742,Theras,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3743,Röschitz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3744,Stockern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3751,Sigmundsherberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3752,Walkenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3753,Hötzelsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3754,Irnfritz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3761,Messern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3762,Ludweis,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3763,Japons,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3800,Göpfritz an der Wild,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3804,Allentsteig,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3811,Kirchberg an der Wild,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3812,Groß Siegharts,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3813,Dietmanns,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3814,Aigen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3820,Raabs an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3822,Karlstein an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3823,Weikertschlag an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3824,Großau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3830,Waidhofen an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3834,Pfaffenschlag bei Waidhofen an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3841,Windigsteig,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3842,Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3843,Dobersberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3844,Waldkirchen an der Thaya,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3851,Kautzen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3852,Gastern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3860,Heidenreichstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3861,Eggern,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3862,Eisgarn,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3863,Reingers,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3871,Nagelberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3872,Langegg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3873,Brand,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3874,Litschau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3900,Schwarzenau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3902,Vitis,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3903,Echsenbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3910,Zwettl,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3911,Rappottenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3912,Grafenschlag,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3913,Großgöttfritz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3914,Waldhausen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3920,Groß Gerungs,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3921,Langschlag,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3922,Großschönau,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3923,Jagenbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3924,Rosenau Schloß,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3925,Arbesbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3931,Schweiggers,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3932,Kirchberg am Walde,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3942,Hirschbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3943,Schrems,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3944,Pürbach,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3945,Hoheneich,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3950,Gmünd,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3961,Waldenstein,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3962,Heinrichs bei Weitra,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3970,Weitra,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3971,St. Martin,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+3972,Bad Großpertholz,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+3973,Karlstift,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4000,Allhaming,O,01.08.2009,,PLZ-Postfach,extern,Nein,Ja
+4010,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4013,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4014,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4016,"Linz, Donau",O,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+4018,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4020,Linz,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4021,"Linz, Donau Postfach",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4023,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4024,"Linz, Donau",O,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+4025,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4026,"Linz, Donau",O,01.11.2012,,PLZ-Postfach,extern,Nein,Ja
+4027,Linz,O,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+4030,Linz,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4031,"Linz, Donau Postfach",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4032,Linz,O,01.08.2005,,PLZ-Postfach,extern,Nein,Ja
+4033,Linz-Ebelsberg,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4036,Linz,O,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+4037,Linz,O,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+4040,Linz,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4041,"Linz, Donau Postfach",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4046,"Linz, Donau",O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4048,Puchenau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4050,Traun,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4052,Ansfelden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4053,Haid,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4055,Pucking,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4056,Sankt Martin,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4059,Leonding,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4060,Leonding,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4061,Pasching,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4062,Thening,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4063,Hörsching,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4064,Oftering,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4066,Pasching,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4069,Leonding,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4070,Eferding,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4072,Alkoven,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4073,Wilhering,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4074,Stroheim,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4075,Breitenaich,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4076,St. Marienkirchen an der Polsenz,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4077,Straßham,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4078,Fraham,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4081,Hartkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4082,Aschbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4083,Haibach ob der Donau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4084,St. Agatha,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4085,Wesenufer,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4090,Engelhartszell,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4091,Vichtenstein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4092,Esternberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4100,Ottensheim,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4101,Feldkirchen an der Donau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4102,Goldwörth,O,01.01.2011,,PLZ-Adressierung,extern,Ja,Nein
+4111,Walding,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4112,Rottenegg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4113,St. Martin im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4114,Neuhaus an der Donau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4115,Kleinzell im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4116,St. Ulrich im Mühlkreis,O,01.01.2012,,PLZ-Adressierung,extern,Ja,Nein
+4120,Neufelden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4121,Altenfelden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4122,Arnreit,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4131,Kirchberg ob der Donau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4132,Lembach im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4133,Niederkappel,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4134,Putzleinsdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4141,Pfarrkirchen im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4142,Hofkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4143,Neustift im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4144,Oberkappel,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4150,Rohrbach in Oberösterreich,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4151,Oepping,O,01.07.2010,,PLZ-Adressierung,extern,Ja,Ja
+4152,Sarleinsbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4153,Peilstein im Mühlviertel,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4154,Kollerschlag,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4155,Nebelberg,O,01.03.2014,,PLZ-Adressierung,extern,Ja,Ja
+4160,Aigen-Schlägl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4161,Ulrichsberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4162,Julbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4163,Klaffer am Hochficht,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4164,Schwarzenberg am Böhmerwald,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4170,Haslach an der Mühl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4171,St. Peter am Wimberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4172,St. Johann am Wimberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4173,St. Veit im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4174,Niederwaldkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4175,Herzogsdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4180,Zwettl an der Rodl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4181,Oberneukirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4182,Waxenberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4183,Traberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4184,Helfenberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4190,Bad Leonfelden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4191,Vorderweißenbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4192,Schenkenfelden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4193,Reichenthal,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4201,Gramastetten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4202,Hellmonsödt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4203,Altenberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4204,Reichenau im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4205,Kirchschlag bei Linz,O,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+4209,Engerwitzdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4210,Gallneukirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4211,Alberndorf in der Riedmark,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4212,Neumarkt im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4213,Unterweitersdorf,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4221,Steyregg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4222,St. Georgen an der Gusen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4223,Katsdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4224,Wartberg ob der Aist,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4225,Luftenberg,O,01.01.2011,,PLZ-Adressierung,extern,Ja,Nein
+4226,Langenstein,O,01.01.2011,,PLZ-Postfach,extern,Nein,Ja
+4230,Pregarten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4231,Untergaisbach,O,01.01.1966,13.04.2016,PLZ-Historisch,intern,Nein,Nein
+4232,Hagenberg im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4240,Freistadt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4242,Hirschbach im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4251,Sandl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4252,Liebenau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4261,Rainbach im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4262,Leopoldschlag,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4263,Windhaag bei Freistadt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4264,Grünbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4271,St. Oswald bei Freistadt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4272,Weitersfelden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4273,Unterweißenbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4274,Schönau im Mühlkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4280,Königswiesen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4281,Mönchdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4282,Pierbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4283,Bad Zell,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4284,Tragwein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4291,Lasberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4292,Kefermarkt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4293,Gutau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4294,St. Leonhard bei Freistadt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4300,St. Valentin,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4303,St. Pantaleon,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4310,Mauthausen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4311,Schwertberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4312,Ried in der Riedmark,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4320,Perg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4322,Windhaag bei Perg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4323,Münzbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4324,Rechberg,O,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+4331,Naarn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4332,Au an der Donau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4341,Arbing,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4342,Baumgartenberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4343,Mitterkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4351,Saxen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4352,Klam,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4360,Grein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4362,Bad Kreuzen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4363,Pabneukirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4364,St. Thomas,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4371,Dimbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4372,St. Georgen am Walde,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4381,St. Nikola an der Donau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4382,Sarmingstein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4391,Waldhausen im Strudengau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4392,Dorfstetten,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4400,Steyr,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4401,Steyr Postfach,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4402,Steyr,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4403,Steyr,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4404,Steyr,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4405,Steyr-Münichholz,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4406,Steyr,O,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+4407,Steyr-Gleink,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4410,Steyr,O,01.06.2013,,PLZ-Postfach,extern,Nein,Ja
+4421,Aschach an der Steyr,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4431,Haidershofen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4432,Ernsthofen,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4441,Behamberg,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4442,Kleinraming,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4443,Maria Neustift,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4451,Garsten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4452,Ternberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4453,Trattenbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4460,Losenstein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4461,Laussa,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4462,Reichraming,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4463,Großraming,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4464,Kleinreifling,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4470,Enns,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4481,Asten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4482,Ennsdorf,N,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4483,Hargelsberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4484,Kronstorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4490,St. Florian,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4491,Niederneukirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4492,Hofkirchen im Traunkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4493,Wolfern,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4501,Neuhofen an der Krems,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4502,St. Marien,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4511,Allhaming,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4521,Schiedlberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4522,Sierning,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4523,Neuzeug,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4531,Kematen an der Krems,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4532,Rohr im Kremstal,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4533,Piberbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4540,Bad Hall,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4541,Adlwang,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4542,Nußbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4550,Kremsmünster,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4551,Ried im Traunkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4552,Wartberg an der Krems,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4553,Schlierbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4554,Oberschlierbach,O,01.09.2012,,PLZ-Adressierung,extern,Ja,Nein
+4560,Kirchdorf an der Krems,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4562,Steinbach am Ziehberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4563,Micheldorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4564,Klaus an der Pyhrnbahn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4565,Inzersdorf im Kremstal,O,01.07.2010,,PLZ-Adressierung,extern,Ja,Ja
+4571,Steyrling,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4572,St. Pankraz,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4573,Hinterstoder,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4574,Vorderstoder,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4575,Roßleithen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4580,Windischgarsten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4581,Rosenau am Hengstpaß,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4582,Spital am Pyhrn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4591,Molln,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4592,Leonstein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4593,Obergrünburg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4594,Grünburg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4595,Waldneukirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4596,Steinbach an der Steyr,O,01.01.2012,,PLZ-Adressierung,extern,Ja,Ja
+4600,Wels,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4601,Wels,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4602,Wels Postfach,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4603,Wels,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4604,Wels,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4605,Wels,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4606,Wels,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4609,Thalheim bei Wels,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4610,Wels,O,01.01.2011,,PLZ-Postfach,extern,Nein,Ja
+4611,Buchkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4612,Scharten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4613,Mistelbach bei Wels,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4614,Marchtrenk,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4615,Holzhausen,O,01.01.2001,,PLZ-Adressierung,extern,Ja,Nein
+4616,Weißkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4617,Marchtrenk,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4618,Höllwiesen,O,01.01.2011,,PLZ-Postfach,extern,Nein,Ja
+4619,Wels,O,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+4621,Sipbachzell,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4622,Eggendorf im Traunkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4623,Gunskirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4624,Pennewang,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4625,Offenhausen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4631,Krenglbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4632,Pichl bei Wels,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4633,Kematen am Innbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4641,Steinhaus,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4642,Sattledt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4643,Pettenbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4644,Scharnstein,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4645,Grünau im Almtal,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4650,Lambach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4651,Stadl-Paura,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4652,Steinerkirchen an der Traun,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4653,Eberstalzell,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4654,Bad Wimsbach-Neydharting,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4655,Vorchdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4656,Kirchham,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4657,Fischlham,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4659,Edt bei Lambach,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4661,Roitham,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4662,Steyrermühl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4663,Laakirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4664,Oberweis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4671,Neukirchen bei Lambach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4672,Bachmanning,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4673,Gaspoltshofen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4674,Altenhof am Hausruck,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4675,Weibern,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4676,Aistersheim,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4680,Haag am Hausruck,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4681,Rottenbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4682,Geboltskirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4690,Schwanenstadt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4691,Breitenschützing,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4692,Niederthalheim,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4693,Desselbrunn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4694,Ohlsdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4701,Bad Schallerbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4702,Wallern an der Trattnach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4707,Schlüßlberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4710,Grieskirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4712,Michaelnbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4713,Gallspach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4714,Meggenhofen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4715,Taufkirchen an der Trattnach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4716,Hofkirchen an der Trattnach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4720,Neumarkt im Hausruckkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4721,Altschwendt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4722,Peuerbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4723,Natternbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4724,Neukirchen am Walde,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4725,St. Aegidi,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4730,Waizenkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4731,Prambachkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4732,St. Thomas,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4733,Heiligenberg,O,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+4741,Wendling,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4742,Pram,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4743,Peterskirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4751,Dorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4752,Riedau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4753,Taiskirchen im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4754,Andrichsfurt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4755,Zell an der Pram,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4760,Raab,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4761,Enzenkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4762,St. Willibald,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4770,Andorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4771,Sigharting,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4772,Lambrechten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4773,Eggerding,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4774,St. Marienkirchen bei Schärding,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4775,Taufkirchen an der Pram,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4776,Diersbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4777,Mayrhof,O,01.07.2007,,PLZ-Adressierung,extern,Ja,Nein
+4780,Schärding,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4782,St. Florian am Inn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4783,Wernstein am Inn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4784,Schardenberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4785,Freinberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4786,Brunnenthal,O,01.01.2006,,PLZ-Adressierung,extern,Ja,Nein
+4791,Rainbach im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4792,Münzkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4793,St. Roman,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4794,Kopfing im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4800,Attnang-Puchheim,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4801,Traunkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4802,Ebensee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4810,Gmunden,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4811,Altmünster,O,01.05.2011,,PLZ-Postfach,extern,Nein,Ja
+4812,Pinsdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4813,Altmünster,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4814,Neukirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4816,Gschwandt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4817,St. Konrad,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4820,Bad Ischl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4821,Lauffen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4822,Bad Goisern am Hallstättersee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4823,Steeg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4824,Gosau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4825,Gosau-Hintertal,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4829,Bad Ischl,O,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+4830,Hallstatt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4831,Obertraun,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4839,Vöcklabruck,O,01.06.2013,,PLZ-Postfach,extern,Nein,Ja
+4840,Vöcklabruck,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4841,Ungenach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4842,Zell am Pettenfirst,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4843,Ampflwang,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4844,Regau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4845,Rutzenmoos,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4846,Redlham,O,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
+4847,Vöcklabruck,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4849,Puchkirchen am Trattberg,O,01.10.2010,,PLZ-Adressierung,extern,Ja,Ja
+4850,Timelkam,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4851,Gampern,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4852,Weyregg am Attersee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4853,Steinbach am Attersee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4854,Weißenbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4860,Lenzing,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4861,Schörfling,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4863,Seewalchen am Attersee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4864,Attersee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4865,Nußdorf am Attersee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4866,Unterach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4870,Vöcklamarkt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4871,Zipf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4872,Neukirchen an der Vöckla,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4873,Frankenburg am Hausruck,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4874,Pramet,O,01.06.1966,31.03.2001,PLZ-Historisch,intern,Nein,Nein
+4875,Redleiten,O,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+4880,St. Georgen im Attergau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4881,Straß im Attergau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4882,Oberwang,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4890,Frankenmarkt,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4891,Pöndorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4892,Fornach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4893,Zell am Moos,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4894,Oberhofen am Irrsee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4901,Ottnang,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4902,Wolfsegg am Hausruck,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4903,Manning,O,01.01.2012,,PLZ-Adressierung,extern,Ja,Nein
+4904,Atzbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4905,Thomasroith,O,01.01.1966,31.12.2011,PLZ-Historisch,intern,Nein,Nein
+4906,Eberschwang,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4910,Ried im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4911,Tumeltsham,O,01.03.2013,,PLZ-Adressierung,extern,Ja,Nein
+4912,Neuhofen im Innkreis,O,01.03.2006,,PLZ-Adressierung,extern,Ja,Nein
+4920,Schildorn,O,01.07.2008,,PLZ-Adressierung,extern,Ja,Nein
+4921,Hohenzell,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4922,Geiersberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4923,Lohnsburg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4924,Waldzell,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4925,Pramet,O,01.04.2001,,PLZ-Adressierung,extern,Ja,Nein
+4926,St. Marienkirchen am Hausruck,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4931,Mettmach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4932,Kirchheim im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4933,Wildenau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4941,Mehrnbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4942,Gurten,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4943,Geinberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4950,Altheim,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4951,Polling im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4952,Weng im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4961,Mühlheim am Inn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4962,Mining,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4963,St. Peter am Hart,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4970,Eitzing,O,01.10.2006,,PLZ-Adressierung,extern,Ja,Nein
+4971,Aurolzmünster,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4972,Utzenaich,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4973,St. Martin,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4974,Ort im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4975,Suben,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4980,Antiesenhofen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4981,Reichersberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4982,Obernberg am Inn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+4983,St. Georgen bei Obernberg am Inn,O,01.01.2008,,PLZ-Adressierung,extern,Ja,Nein
+4984,Weilbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+4985,Katzenberg,O,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+5000,Wals bei Salzburg,Sa,01.08.2009,,PLZ-Postfach,extern,Nein,Ja
+5010,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5012,Salzburg,Sa,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+5013,Salzburg-Liefering,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5014,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5015,Salzburg,Sa,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+5016,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5017,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5018,Salzburg-Europark,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5020,Salzburg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5021,Salzburg Postfach,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5022,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5023,Salzburg-Gnigl,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5024,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5025,Salzburg-Parsch,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5026,Salzburg-Aigen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5027,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5028,Salzburg-Kasern,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5032,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5033,Salzburg,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5061,Elsbethen-Glasenbach,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5071,Wals,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5072,Siezenheim,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5081,Anif,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5082,Grödig,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5083,Gartenau-St. Leonhard,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5084,Großgmain,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5089,Niederalm,Sa,01.12.2005,,PLZ-Postfach,extern,Nein,Ja
+5090,Lofer,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5091,Unken,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5092,St. Martin bei Lofer,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5093,Weißbach bei Lofer,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5101,Bergheim,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5102,Anthering,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5110,Oberndorf bei Salzburg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5111,Bürmoos,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5112,Lamprechtshausen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5113,St. Georgen bei Salzburg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5114,Göming,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5120,St. Pantaleon,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5121,Ostermiething,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5122,Ach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5131,Franking,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5132,Geretsberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5133,Gilgenberg am Weilhart,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5134,Schwand im Innkreis,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5141,Moosdorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5142,Eggelsberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5143,Feldkirchen bei Mattighofen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5144,Handenberg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5145,Neukirchen an der Enknach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5151,Nußdorf am Haunsberg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5152,Michaelbeuern,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5161,Elixhausen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5162,Obertrum am See,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5163,Mattsee,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5164,Seeham,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5165,Berndorf bei Salzburg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5166,Perwang am Grabensee,O,01.07.2010,,PLZ-Adressierung,extern,Ja,Nein
+5167,Palting,Sa,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+5201,Seekirchen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5202,Neumarkt am Wallersee,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5203,Köstendorf,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5204,Straßwalchen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5205,Schleedorf,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5211,Friedburg,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5212,Schneegattern,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5221,Lochen am See,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5222,Munderfing,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5223,Pfaffstätt,O,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+5224,Auerbach,O,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+5225,Jeging,O,01.08.2008,,PLZ-Adressierung,extern,Ja,Nein
+5230,Mattighofen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5231,Schalchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5232,Kirchberg bei Mattighofen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5233,Pischelsdorf am Engelbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5241,Maria Schmolln,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5242,St. Johann am Walde,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5251,Höhnhart,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5252,Aspach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5261,Uttendorf,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5270,Mauerkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5271,Moosbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5272,Treubach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5273,Roßbach,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5274,Burgkirchen,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5280,Braunau am Inn,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5282,Braunau,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5283,Braunau am Inn,O,01.05.2012,,PLZ-Postfach,extern,Nein,Ja
+5300,Hallwang,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5301,Eugendorf,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5302,Henndorf am Wallersee,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5303,Thalgau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5310,Mondsee,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5311,Loibichl,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5321,Koppl,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5322,Hof bei Salzburg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5323,Ebenau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5324,Faistenau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5325,Plainfeld,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5330,Fuschl am See,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5340,St. Gilgen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5342,Abersee,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5350,Strobl,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5351,Aigen-Voglhub,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5360,St. Wolfgang im Salzkammergut,O,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5400,Hallein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5403,Taxach,Sa,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+5411,Oberalm,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5412,Puch bei Hallein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5421,Adnet,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5422,Heilbad Dürrnberg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5423,St. Koloman,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5424,Bad Vigaun,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5425,Krispl,Sa,01.12.2013,,PLZ-Adressierung,extern,Ja,Nein
+5431,Kuchl,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5440,Golling an der Salzach,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5441,Abtenau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5442,Rußbach am Paß Gschütt,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5450,Werfen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5451,Tenneck,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5452,Pfarrwerfen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5453,Werfenweng,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5500,Bischofshofen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5505,Mühlbach am Hochkönig,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5511,Hüttau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5521,Niedernfritz,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5522,St. Martin am Tennengebirge,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5523,Lungötz,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5524,Annaberg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5531,Eben im Pongau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5532,Filzmoos,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5541,Altenmarkt im Pongau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5542,Flachau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5550,Radstadt,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5552,Forstau,Sa,01.10.2007,,PLZ-Adressierung,extern,Ja,Nein
+5561,Untertauern,Sa,01.06.1966,,PLZ-Adressierung,extern,Ja,Nein
+5562,Obertauern,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5563,Tweng,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5570,Mauterndorf,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5571,Mariapfarr,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5572,St. Andrä im Lungau,Sa,01.01.2006,,PLZ-Adressierung,extern,Ja,Nein
+5573,Weißpriach,Sa,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+5574,Göriach,Sa,01.04.2009,,PLZ-Adressierung,extern,Ja,Nein
+5575,Lessach,Sa,01.03.2013,,PLZ-Adressierung,extern,Ja,Nein
+5580,Tamsweg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5581,St. Margarethen im Lungau,Sa,01.10.2004,,PLZ-Adressierung,extern,Ja,Nein
+5582,St. Michael im Lungau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5583,Muhr,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5584,Zederhaus,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5585,Unternberg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5591,Ramingstein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5592,Thomatal,Sa,01.01.2006,,PLZ-Adressierung,extern,Ja,Nein
+5600,St. Johann im Pongau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5602,Wagrain,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5603,Kleinarl,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5611,Großarl,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5612,Hüttschlag,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5620,Schwarzach im Pongau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5621,St. Veit im Pongau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5622,Goldegg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5623,Schwarzach im Pongau,Sa,12.04.2007,,InteressentenPLZ,extern,Nein,Ja
+5630,Bad Hofgastein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5632,Dorfgastein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5640,Bad Gastein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5645,Böckstein,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5651,Lend,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5652,Dienten am Hochkönig,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5660,Taxenbach,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5661,Rauris,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5662,Gries,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5671,Bruck an der Großglocknerstraße,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5672,Fusch an der Glocknerstraße,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5700,Zell am See,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5702,Zell am See-Schüttdorf,Sa,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+5710,Kaprun,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5721,Piesendorf,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5722,Niedernsill,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5723,Uttendorf,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5724,Stuhlfelden,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5730,Mittersill,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5731,Hollersbach im Pinzgau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5732,Mühlbach,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5733,Bramberg,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5741,Neukirchen am Großvenediger,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5742,Wald im Pinzgau,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5743,Krimml,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5751,Maishofen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5752,Viehhofen,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5753,Saalbach,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5754,Hinterglemm,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5760,Saalfelden am Steinernen Meer,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+5761,Maria Alm am Steinernen Meer,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+5762,Saalfelden am Steinernen Meer,Sa,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+5771,Leogang,Sa,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6000,Hall in Tirol,T,01.08.2009,,PLZ-Postfach,extern,Nein,Ja
+6010,Innsbruck,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6013,Innsbruck,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6018,Innsbruck,T,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+6019,Innsbruck,T,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+6020,Innsbruck,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6021,Innsbruck Postfach,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6022,Innsbruck,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6023,Innsbruck,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6027,Innsbruck,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6028,Innsbruck Technologiezentrum,T,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+6029,Innsbruck,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6031,Innsbruck,T,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+6032,Innsbruck,T,19.07.2006,,PLZ-Postfach,extern,Nein,Ja
+6033,Innsbruck-Arzl,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6034,Innsbruck,T,01.03.2012,,PLZ-Postfach,extern,Nein,Ja
+6035,Innsbruck,T,01.03.2012,,PLZ-Postfach,extern,Nein,Ja
+6036,Innsbruck,T,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+6040,Innsbruck-Neuarzl,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6050,Hall in Tirol,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6060,Hall in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6063,Rum,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6064,Rum,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6065,Thaur,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6067,Absam,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6068,Mils,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6069,Gnadenwald,T,01.09.2008,,PLZ-Adressierung,extern,Ja,Nein
+6070,Ampass,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6071,Aldrans,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6072,Lans,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6073,Sistrans,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6074,Rinn,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6075,Tulfes,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6080,Innsbruck-Igls,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6082,Patsch,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6083,Ellbögen,T,01.09.2008,,PLZ-Adressierung,extern,Ja,Nein
+6091,Götzens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6092,Birgitz,T,01.01.2008,,PLZ-Adressierung,extern,Ja,Nein
+6094,Axams,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6095,Grinzens,T,01.08.2008,,PLZ-Adressierung,extern,Ja,Nein
+6100,Seefeld in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6103,Reith bei Seefeld,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6105,Leutasch,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6108,Scharnitz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6111,Volders,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6112,Wattens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6113,Wattenberg,T,17.07.2008,,PLZ-Adressierung,extern,Ja,Nein
+6114,Kolsass,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6115,Kolsassberg,T,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+6116,Weer,T,01.12.2012,,PLZ-Adressierung,extern,Ja,Nein
+6121,Baumkirchen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6122,Fritzens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6123,Terfens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6130,Schwaz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6131,Schwaz,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6133,Weerberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6134,Vomp,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6135,Stans,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6136,Pill,T,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
+6141,Schönberg im Stubaital,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6142,Mieders,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6143,Matrei am Brenner,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6145,Navis,T,01.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6150,Steinach am Brenner,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6152,Trins,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6154,St. Jodok am Brenner,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6156,Gries am Brenner,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6157,Obernberg am Brenner,T,01.01.2008,,PLZ-Adressierung,extern,Ja,Nein
+6161,Natters,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6162,Mutters,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6165,Telfes im Stubai,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6166,Fulpmes,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6167,Neustift im Stubaital,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6170,Zirl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6173,Oberperfuss,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6175,Kematen in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6176,Völs,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6177,Völs,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6178,Unterperfuss,T,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+6179,Ranggen,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6181,Sellrain,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6182,Gries im Sellrain,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6183,Kühtai,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6184,St. Sigmund,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6200,Jenbach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6202,Buch bei Jenbach,T,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+6210,Wiesing,T,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+6212,Maurach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6213,Pertisau,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6215,Achenkirch,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6220,Buch in Tirol,T,01.01.2011,,PLZ-Adressierung,extern,Ja,Nein
+6222,Gallzein,T,01.06.2008,,PLZ-Adressierung,extern,Ja,Nein
+6230,Brixlegg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6232,Münster,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6233,Kramsach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6234,Brandenberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6235,Reith im Alpbachtal,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6236,Alpbach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6240,Rattenberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6241,Radfeld,T,01.07.2009,,PLZ-Adressierung,extern,Ja,Ja
+6250,Kundl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6252,Breitenbach am Inn,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6260,Bruck am Ziller,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6261,Strass im Zillertal,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6262,Schlitters,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6263,Fügen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6264,Fügenberg,T,01.01.2010,,PLZ-Adressierung,extern,Ja,Nein
+6265,Hart im Zillertal,T,01.01.2008,,PLZ-Adressierung,extern,Ja,Nein
+6271,Uderns,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6272,Kaltenbach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6273,Ried im Zillertal,T,01.01.2012,,PLZ-Adressierung,extern,Ja,Nein
+6274,Aschau,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6275,Stumm,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Ja
+6276,Stummerberg,T,01.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6277,Zellberg,T,01.04.2009,,PLZ-Adressierung,extern,Ja,Nein
+6278,Hainzenberg,T,01.10.2009,,PLZ-Adressierung,extern,Ja,Nein
+6280,Zell am Ziller,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6281,Gerlos,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6283,Hippach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6284,Ramsau im Zillertal,T,01.01.2008,,PLZ-Adressierung,extern,Ja,Nein
+6290,Mayrhofen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6292,Finkenberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6293,Tux,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6294,Hintertux,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6295,Ginzling,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6300,Wörgl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6305,Itter,T,01.09.2006,,PLZ-Adressierung,extern,Ja,Nein
+6306,Söll,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6311,Wildschönau-Oberau,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6313,Wildschönau-Auffach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6314,Wildschönau-Niederau,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6320,Angerberg,T,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+6321,Angath,T,01.10.2010,,PLZ-Adressierung,extern,Ja,Nein
+6322,Kirchbichl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6323,Bad Häring,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6324,Mariastein,T,01.11.2007,,PLZ-Adressierung,extern,Ja,Nein
+6330,Kufstein,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6331,Kufstein,T,01.08.2011,,PLZ-Postfach,extern,Nein,Ja
+6332,Kufstein,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6333,Kufstein,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6334,Schwoich,T,01.10.2007,,PLZ-Adressierung,extern,Ja,Nein
+6335,Thiersee,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6336,Langkampfen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6341,Ebbs,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6342,Niederndorf,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6343,Erl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6344,Walchsee,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6345,Kössen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6346,Niederndorferberg,T,01.01.2011,,PLZ-Adressierung,extern,Ja,Nein
+6347,Rettenschöss,T,01.12.2013,,PLZ-Adressierung,extern,Ja,Nein
+6351,Scheffau am Wilden Kaiser,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6352,Ellmau,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6353,Going am Wilden Kaiser,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6361,Hopfgarten,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6362,Kelchsau,T,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+6363,Westendorf,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6364,Brixen im Thale,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6365,Kirchberg in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6370,Kitzbühel,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6371,Aurach,T,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
+6372,Oberndorf in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6373,Jochberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6380,St. Johann in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6382,Kirchdorf in Tirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6383,Erpfendorf,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6384,Waidring,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6385,Schwendt,T,01.11.2008,,PLZ-Adressierung,extern,Ja,Nein
+6391,Fieberbrunn,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6392,St. Jakob in Haus,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6393,St. Ulrich am Pillersee,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6395,Hochfilzen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6401,Inzing,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6402,Hatting,T,01.01.2005,,PLZ-Adressierung,extern,Ja,Nein
+6403,Flaurling,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6404,Polling,T,01.06.2008,,PLZ-Adressierung,extern,Ja,Nein
+6405,Pfaffenhofen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6406,Oberhofen im Inntal,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6408,Pettnau,T,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+6410,Telfs,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6412,Telfs-St. Georgen,T,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6413,Wildermieming,T,01.12.2013,,PLZ-Adressierung,extern,Ja,Nein
+6414,Mieming,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6416,Obsteig,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6421,Rietz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6422,Stams,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6423,Mötz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6424,Silz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6425,Haiming,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6426,Roppen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6430,Ötztal Bahnhof,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6432,Sautens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6433,Oetz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6441,Umhausen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6444,Längenfeld,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6450,Sölden,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6452,Hochsölden,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6456,Obergurgl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6458,Vent,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6460,Imst,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6462,Karres,T,01.09.2008,,PLZ-Adressierung,extern,Ja,Nein
+6463,Karrösten,T,01.09.2012,,PLZ-Adressierung,extern,Ja,Nein
+6464,Tarrenz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6465,Nassereith,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6471,Arzl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6473,Wenns,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6474,Jerzens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6481,St. Leonhard im Pitztal,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6491,Schönwies,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6492,Imsterberg,T,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+6493,Mils,T,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
+6500,Landeck,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6511,Zams,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6521,Fließ,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6522,Prutz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6524,Feichten im Kaunertal,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6525,Faggen,T,01.06.2012,,PLZ-Adressierung,extern,Ja,Nein
+6526,Kauns,T,01.12.2015,,PLZ-Adressierung,extern,Ja,Nein
+6527,Kaunerberg,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6528,Fendels,T,01.12.2008,,PLZ-Adressierung,extern,Ja,Nein
+6531,Ried im Oberinntal,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6532,Ladis,T,01.06.2008,,PLZ-Adressierung,extern,Ja,Nein
+6533,Fiss,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6534,Serfaus,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6541,Tösens,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6542,Pfunds,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6543,Nauders,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6544,Spiss,T,01.11.2008,,PLZ-Adressierung,extern,Ja,Nein
+6551,Pians,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6552,Tobadill,T,01.08.2008,,PLZ-Adressierung,extern,Ja,Nein
+6553,See,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6555,Kappl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6561,Ischgl,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6562,Mathon,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6563,Galtür,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6571,Strengen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6572,Flirsch,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6574,Pettneu am Arlberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6580,St. Anton am Arlberg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6591,Grins,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6600,Reutte,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6604,Höfen,T,01.04.2009,,PLZ-Adressierung,extern,Ja,Nein
+6610,Wängle,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6611,Heiterwang,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6621,Bichlbach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6622,Berwang,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6623,Namlos,T,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6631,Lermoos,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6632,Ehrwald,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6633,Biberwier,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6642,Stanzach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6644,Elmen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6645,Vorderhornbach,T,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+6646,Hinterhornbach,T,01.06.2008,,PLZ-Adressierung,extern,Ja,Nein
+6647,Pfafflar,T,01.07.2008,,PLZ-Adressierung,extern,Ja,Nein
+6650,Gramais,T,01.12.2008,,PLZ-Adressierung,extern,Ja,Nein
+6651,Häselgehr,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6652,Elbigenalp,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6653,Bach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6654,Holzgau,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6655,Steeg,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6670,Forchach,T,01.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6671,Weißenbach am Lech,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6672,Nesselwängle,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6673,Grän,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6675,Tannheim,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6677,Schattwald,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6682,Vils,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6691,Jungholz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6700,Bludenz,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6701,Bludenz Postfach,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6702,Bludenz,V,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+6705,Bürs,V,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+6706,Bürs,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6707,Bürserberg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6708,Brand,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6710,Nenzing,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6712,Thüringen,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6713,Ludesch,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6714,Nüziders,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6719,Bludesch,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6721,Thüringerberg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6722,St. Gerold,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6723,Blons,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6731,Sonntag,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6733,Fontanella,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6741,Raggal,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6751,Braz,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6752,Dalaas,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6754,Klösterle,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6762,Stuben,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6763,Zürs,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6764,Lech,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6767,Warth,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6771,St. Anton im Montafon,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6773,Vandans,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6774,Tschagguns,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6780,Schruns,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6781,Bartholomäberg,V,01.04.2010,,PLZ-Adressierung,extern,Ja,Nein
+6782,Silbertal,V,01.05.2010,,PLZ-Adressierung,extern,Ja,Ja
+6787,Gargellen,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6791,St. Gallenkirch,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6792,Gortipohl,V,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+6793,Gaschurn,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6794,Partenen,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6800,Feldkirch,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6801,Feldkirch Postfach,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6804,Feldkirch-Altenstadt,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6805,Feldkirch-Gisingen,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6806,Feldkirch-Tosters,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6807,Feldkirch-Tisis,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6808,Feldkirch-Nofels,V,31.03.2011,,PLZ-Postfach,extern,Nein,Ja
+6811,Göfis,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6812,Meiningen,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6820,Frastanz,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6822,Satteins,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6824,Schlins,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6830,Rankweil,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6832,Sulz-Röthis,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6833,Klaus-Weiler,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6834,Übersaxen,V,01.05.2006,,PLZ-Adressierung,extern,Ja,Nein
+6835,Zwischenwasser,V,01.01.2010,,PLZ-Adressierung,extern,Ja,Nein
+6836,Viktorsberg,V,09.10.2008,,PLZ-Adressierung,extern,Ja,Nein
+6840,Götzis,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6841,Mäder,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6842,Koblach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6844,Altach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6845,Hohenems,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6850,Dornbirn,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6851,Dornbirn Postfach,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6853,Dornbirn,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6854,Dornbirn-Messepark,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6855,Dornbirn,V,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+6857,Dornbirn-Haselstauden,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6858,Schwarzach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6861,Alberschwende,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6863,Egg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6866,Andelsbuch,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6867,Schwarzenberg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6870,Bezau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6874,Bizau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6881,Mellau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6882,Schnepfau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6883,Au,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6884,Damüls,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6886,Schoppernau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6888,Schröcken,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6890,Lustenau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6893,Lustenau-Rheindorf,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6900,Bregenz,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6901,Bregenz Postfach,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6902,Bregenz,V,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+6904,Bregenz-Schendlingen,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6905,Bregenz-Achsiedlung,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6911,Lochau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6912,Hörbranz,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6914,Hohenweiler,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6921,Kennelbach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6922,Wolfurt,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6923,Lauterach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6932,Langen bei Bregenz,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6933,Doren,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6934,Sulzberg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6941,Langenegg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6942,Krumbach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6943,Riefensberg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+6951,Lingenau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6952,Hittisau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6953,Sibratsgfäll,V,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+6960,Wolfurt-Bahnhof,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6961,Wolfurt-Bahnhof Postfach,V,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+6971,Hard,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6972,Fußach,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6973,Höchst,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6974,Gaißau,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6991,Riezlern,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6992,Hirschegg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+6993,Mittelberg,V,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7000,Eisenstadt,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7001,Eisenstadt Postfach,B,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+7002,Eisenstadt,B,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+7011,Siegendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7012,Zagersdorf,B,01.09.2015,,PLZ-Adressierung,extern,Ja,Nein
+7013,Klingenbach,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7020,Loipersbach im Burgenland,B,01.03.2012,,PLZ-Adressierung,extern,Ja,Nein
+7021,Draßburg,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7022,Schattendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7023,Zemendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7024,Hirm,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7031,Krensdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7032,Sigleß,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7033,Pöttsching,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7034,Zillingtal,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7035,Steinbrunn,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7041,Wulkaprodersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7042,Antau,B,01.07.2010,,PLZ-Adressierung,extern,Ja,Ja
+7051,Großhöflein,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7052,Müllendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7053,Hornstein,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7061,Trausdorf an der Wulka,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7062,St. Margarethen im Burgenland,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7063,Oggau,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7064,Oslip,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7071,Rust,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7072,Mörbisch am See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7073,"Rust, Burgenland",B,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+7081,Schützen am Gebirge,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7082,Donnerskirchen,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7083,Purbach am Neusiedler See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7091,Breitenbrunn am Neusiedler See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7092,Winden am See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7093,Jois,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7100,Neusiedl am See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7111,Parndorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7121,Weiden am See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7122,Gols,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7123,Mönchhof,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7131,Halbturn,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7132,Frauenkirchen,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7141,Podersdorf am See,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7142,Illmitz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7143,Apetlon,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7151,Wallern im Burgenland,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7152,Pamhagen,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7161,St. Andrä am Zicksee,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7162,Tadten,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7163,Andau,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7201,Neudörfl,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7202,Bad Sauerbrunn,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7203,Wiesen,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7210,Mattersburg,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7212,Forchtenstein,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7221,Marz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7222,Rohrbach bei Mattersburg,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7223,Sieggraben,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7301,Deutschkreutz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7302,Nikitsch,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7304,Großwarasdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7311,Neckenmarkt,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7312,Horitschon,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7321,Lackendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7322,Lackenbach,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7323,Ritzing,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7331,Weppersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7332,Kobersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7341,Markt St. Martin,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7342,Kaisersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7343,Neutal,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7344,Stoob,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7350,Oberpullendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7361,Lutzmannsburg,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7371,Unterrabnitz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7372,Draßmarkt,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7373,Piringsdorf,B,01.10.2010,,PLZ-Adressierung,extern,Ja,Ja
+7374,Weingraben,B,01.09.2014,,PLZ-Adressierung,extern,Ja,Nein
+7400,Oberwart,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7410,Loipersdorf-Kitzladen,B,01.12.2015,,PLZ-Adressierung,extern,Ja,Nein
+7411,Markt Allhau,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7412,Wolfau,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7413,Buchschachen,B,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+7421,Tauchen-Schaueregg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7422,Riedlingsdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7423,Pinkafeld,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7424,Grafenschachen,B,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+7431,Bad Tatzmannsdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7432,Oberschützen,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7433,Mariasdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7434,Bernstein,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7435,Unterkohlstätten,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7441,Pilgersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7442,Lockenhaus,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7443,Rattersdorf-Liebing,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7444,Mannersdorf an der Rabnitz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7451,Oberloisdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7452,Unterpullendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7453,Steinberg-Dörfl,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7461,Stadtschlaining,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7463,Weiden bei Rechnitz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7464,Markt Neuhodis,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7471,Rechnitz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7472,Schachendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7473,Hannersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7474,Deutsch Schützen,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7501,Rotenturm an der Pinka,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7503,Großpetersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7504,Jabing,B,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+7511,Mischendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7512,Kohfidisch,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7521,Eberau,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7522,Strem,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7531,Kemeten,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7532,Litzelsdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7533,Ollersdorf im Burgenland,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7534,Olbendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7535,St. Michael im Burgenland,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7536,Güttenbach,B,01.01.2012,,PLZ-Adressierung,extern,Ja,Nein
+7537,Neuberg im Burgenland,B,01.10.2011,,PLZ-Adressierung,extern,Ja,Nein
+7540,Güssing,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7542,Gerersdorf bei Güssing,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7543,Kukmirn,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7544,Tobaj,B,01.12.2014,,PLZ-Adressierung,extern,Ja,Ja
+7551,Stegersbach,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7552,Stinatz,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7553,Bocksdorf,B,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+7561,Heiligenkreuz im Lafnitztal,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7562,Eltendorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7563,Königsdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7564,Dobersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7571,Rudersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+7572,Deutsch Kaltenbrunn,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+7573,Rohrbrunn,B,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8000,Graz,St,01.08.2009,,PLZ-Postfach,extern,Nein,Ja
+8006,Graz,St,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+8007,Graz,St,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+8008,Graz,St,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+8010,Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8011,Graz Postfach,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8012,Graz,St,30.09.2002,,InteressentenPLZ,extern,Nein,Ja
+8013,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8014,Hönigtal,St,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8015,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8016,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8017,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8018,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8019,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8020,Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8021,Graz Postfach,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8022,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8023,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8024,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8025,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8026,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8027,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8028,Graz,St,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+8029,Graz,St,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+8035,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8036,Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8040,Graz-Liebenau,St,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+8041,Graz-Liebenau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8042,Graz-St. Peter,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8043,Graz-Kroisbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8044,Graz-Mariatrost,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8045,Graz-Andritz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8046,Graz-St. Veit,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8047,Graz-Ragnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8048,Graz-Liebenau,St,01.10.2011,,PLZ-Postfach,extern,Nein,Ja
+8049,Graz,St,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+8050,Thal,St,01.04.2011,,PLZ-Postfach,extern,Nein,Ja
+8051,Graz-Gösting,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8052,Graz-Wetzelsdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8053,Graz-Neuhart,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8054,Graz-Straßgang,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8055,Graz-Puntigam,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8056,Graz,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8057,Graz-Straßgang,St,01.09.2013,,PLZ-Postfach,extern,Nein,Ja
+8061,St. Radegund bei Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8062,Kumberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8063,Eggersdorf bei Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8071,Hausmannstätten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8072,Fernitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8073,Feldkirchen bei Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8074,Raaba,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8075,Hart bei Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8076,Vasoldsberg,St,01.06.2013,,PLZ-Adressierung,extern,Ja,Ja
+8077,Gössendorf,St,01.07.2010,,PLZ-Adressierung,extern,Ja,Ja
+8081,Heiligenkreuz am Waasen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8082,Kirchbach in Steiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8083,St. Stefan im Rosental,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8091,Jagerberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8092,Mettersdorf am Saßbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8093,St. Peter am Ottersbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8101,Gratkorn,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8102,Semriach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8103,Rein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8111,Judendorf-Straßengel,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8112,Gratwein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8113,St. Oswald bei Plankenwarth,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8114,Stübing,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8120,Peggau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8121,Deutschfeistritz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8122,Waldstein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8124,Übelbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8130,Frohnleiten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8131,Mixnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8132,Pernegg an der Mur,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8141,Unterpremstätten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8142,Wundschuh,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8143,Dobl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8144,Tobelbad,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8151,Hitzendorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8152,Stallhofen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8153,Geistthal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8160,Weiz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8162,Passail,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8163,Fladnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8171,St. Kathrein am Offenegg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8172,Heilbrunn,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8181,St. Ruprecht,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8182,Puch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8183,Floing,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8184,Anger,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8190,Birkfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8191,Koglhof,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8192,Strallegg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8193,Dorfviertel,St,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8194,Waisenegg,St,01.03.2015,,PLZ-Postfach,extern,Nein,Ja
+8200,Gleisdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8201,Gleisdorf,St,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+8211,Ilztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8212,Pischelsdorf in der Steiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8221,Hirnsdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8222,St. Johann bei Herberstein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8223,Stubenberg am See,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8224,Kaindorf bei Hartberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8225,Pöllau bei Hartberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8226,Obersaifen,St,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+8230,Hartberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8232,Grafendorf bei Hartberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8233,Lafnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8234,Rohrbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8240,Friedberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8241,Dechantskirchen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8242,St. Lorenzen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8243,Pinggau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8244,Schäffern,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8250,Vorau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8251,Bruck,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8252,Mönichwald,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8253,Waldbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8254,Wenigzell,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8255,St. Jakob,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8261,Sinabelkirchen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8262,Ilz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8263,Großwilfersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8264,Hainersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8265,Großsteinbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8266,Nestelbach im Ilztal,St,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+8271,Bad Waltersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8272,Sebersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8273,Ebersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8274,Buch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8280,Fürstenfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8282,Loipersdorf bei Fürstenfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8283,Bad Blumau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8291,Burgau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8292,Neudau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8293,Wörth an der Lafnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8294,Unterrohr,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8295,St. Johann in der Haide,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8301,Laßnitzhöhe,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8302,Nestelbach bei Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8311,Markt Hartmannsdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8312,Ottendorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8313,Breitenfeld an der Rittschein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8321,St. Margarethen an der Raab,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8322,Studenzen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8323,St. Marein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8324,Kirchberg an der Raab,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8330,Feldbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8331,Gossendorf,St,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+8332,Edelsbach bei Feldbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8333,Riegersburg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8334,Lödersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8335,Gniebing,St,01.03.2011,,PLZ-Postfach,extern,Nein,Ja
+8341,Paldau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8342,Gnas,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8343,Trautmannsdorf in Oststeiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8344,Bad Gleichenberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8345,Straden,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8350,Fehring,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8352,Unterlamm,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8353,Kapfenstein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8354,St. Anna,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8355,Tieschen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8361,Hatzendorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8362,Söchau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8363,Übersbach,St,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+8380,Jennersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8382,Mogersdorf,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8383,St. Martin an der Raab,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8384,Minihof-Liebau,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8385,Neuhaus am Klausenbach,B,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8401,Kalsdorf bei Graz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8402,Werndorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8403,Lebring,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8404,Kalsdorf bei Graz,St,01.01.1966,,InteressentenPLZ,extern,Nein,Ja
+8410,Wildon,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8411,Hengsberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8412,Allerheiligen bei Wildon,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8413,St. Georgen an der Stiefing,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8421,Wolfsberg im Schwarzautal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8422,St. Nikolai ob Draßling,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8423,St. Veit am Vogau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8424,Gabersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8430,Leibnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8431,Gralla,St,01.01.2011,,PLZ-Adressierung,extern,Ja,Ja
+8432,Kaindorf an der Sulm,St,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8433,Leibnitz,St,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+8434,Tillmitsch Links der Laßnitz,St,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+8435,Wagna,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8441,Fresing,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8442,Kitzeck im Sausal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8443,Gleinstätten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8444,St. Andrä im Sausal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8451,Heimschuh,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8452,Großklein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8453,St. Johann im Saggautal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8454,Arnfels,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8455,Oberhaag,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8461,Ehrenhausen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8462,Gamlitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8463,Leutschach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8471,Spielfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8472,Straß in Steiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8473,Weitersfeld an der Mur,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8480,Mureck,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8481,Weinburg am Saßbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8482,Gosdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8483,Deutsch Goritz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8484,Unterpurkla,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8490,Bad Radkersburg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8492,Halbenrain,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8493,Klöch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8501,Lieboch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8502,Lannach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8503,St. Josef Weststeiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8504,Preding,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8505,St. Nikolai im Sausal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8506,Mettersdorf,St,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+8510,Stainz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8511,St. Stefan ob Stainz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8521,Wettmannstätten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8522,Groß St. Florian,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8523,Frauental an der Laßnitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8524,Bad Gams,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8530,Deutschlandsberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8541,Schwanberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8542,St. Peter im Sulmtal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8543,St. Martin im Sulmtal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8544,Pölfing-Brunn,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8551,Wies,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8552,Eibiswald,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8553,St. Oswald ob Eibiswald,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8554,Soboth,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8555,Wernersdorf,St,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8556,Aibl,St,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+8561,Söding,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8562,Mooskirchen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8563,Ligist,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8564,Krottendorf-Gaisfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8565,St. Johann ob Hohenburg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8570,Voitsberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8571,Bärnbach,St,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+8572,Bärnbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8573,Kainach bei Voitsberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8580,Köflach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8581,Köflach-Pichling,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8582,Rosental an der Kainach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8583,Edelschrott,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8584,Hirschegg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8591,Maria Lankowitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8592,Salla,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8593,Graden,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8600,Bruck an der Mur,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8605,Kapfenberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8606,Kapfenberg,St,01.06.2012,,PLZ-Postfach,extern,Nein,Ja
+8607,Kapfenberg,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8608,Parschlug,St,01.04.2011,,PLZ-Postfach,extern,Nein,Ja
+8611,St. Katharein an der Laming,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8612,Tragöß-Oberort,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8614,Breitenau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8616,Gasen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8621,Thörl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8622,Etmißl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8623,Aflenz Kurort,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8624,Au,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8625,Turnau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8630,Mariazell,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8632,Gußwerk,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8634,Wegscheid,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8635,Gollrad,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8636,Seewiesen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8641,St. Marein im Mürztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8642,St. Lorenzen im Mürztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8643,Allerheiligen im Mürztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8644,Mürzhofen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8650,Kindberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8652,Kindberg-Aumühl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8653,Stanz im Mürztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8654,Fischbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8661,Wartberg im Mürztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8662,Mitterdorf im Mürztal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8663,Dorf Veitsch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8664,Großveitsch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8665,Langenwang,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8670,Krieglach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8671,Alpl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8672,St. Kathrein am Hauenstein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8673,Ratten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8674,Rettenegg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8680,Mürzzuschlag,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8682,Mürzzuschlag-Hönigsberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8684,Spital am Semmering,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8685,Steinhaus am Semmering,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8690,Altenberg an der Rax,St,01.10.2010,,PLZ-Postfach,extern,Nein,Ja
+8691,Kapellen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8692,Neuberg an der Mürz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8693,Mürzsteg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8694,Frein an der Mürz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8700,Leoben,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8703,Hinterberg,St,01.09.2013,,PLZ-Postfach,extern,Nein,Ja
+8704,Leoben,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8707,Leoben,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8709,Leoben-Lerchenfeld,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8712,Niklasdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8713,St. Stefan ob Leoben,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8714,Kraubath an der Mur,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8715,St. Lorenzen bei Knittelfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8720,Knittelfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8722,Knittelfeld,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8723,Kobenz,St,01.12.2012,,PLZ-Adressierung,extern,Ja,Nein
+8724,Spielberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8731,Bischoffeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8732,Seckau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8733,St. Marein bei Knittelfeld,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8734,Großlobming,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8740,Zeltweg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8741,Weißkirchen in Steiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8742,Obdach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8743,Eppenstein,St,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8750,Judenburg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8751,Judenburg - Murdorf,St,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+8753,Fohnsdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8754,Thalheim,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8755,St. Peter ob Judenburg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8756,St. Georgen ob Judenburg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8761,Pöls,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8762,Oberzeiring,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8763,Möderbrugg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8764,Pusterwald,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8765,St. Johann am Tauern,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8766,Bretstein,St,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+8770,St. Michael in Obersteiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8772,Timmersdorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8773,Kammern im Liesingtal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8774,Mautern in Steiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8775,Kalwang,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8781,Wald am Schoberpaß,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8782,Treglwang,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8783,Gaishorn am See,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8784,Trieben,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8785,Hohentauern,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8786,Rottenmann,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8790,Eisenerz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8792,St. Peter-Freienstein,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8793,Trofaiach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8794,Vordernberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8795,Radmer,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8800,Unzmarkt,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8811,Scheifling,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8812,Mariahof,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8813,St. Lambrecht,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8820,Neumarkt in Steiermark,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8822,Mühlen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8831,Niederwölz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8832,Oberwölz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8833,Teufenbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8841,Frojach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8842,Katsch an der Mur,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8843,St. Peter am Kammersberg,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8844,Schöder,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8850,Murau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8852,Stolzalpe,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8853,Ranten,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8854,Krakaudorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8861,St. Georgen ob Murau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8862,Stadl an der Mur,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8863,Predlitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8864,Turrach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8900,Selzthal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8903,Lassing,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8904,Ardning,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8911,Admont,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8912,Johnsbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8913,Weng,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8920,Hieflau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8921,Lainbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8922,Gams bei Hieflau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8923,Palfau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8924,Wildalpen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8931,Landl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8932,Weißenbach an der Enns,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8933,St. Gallen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8934,Altenmarkt bei St. Gallen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8940,Liezen,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8941,Weißenbach bei Liezen,St,01.12.2011,,PLZ-Postfach,extern,Nein,Ja
+8942,Wörschach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8943,Aigen im Ennstal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8950,Stainach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8951,Trautenfels,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8952,Irdning,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8953,Donnersbach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8954,St. Martin am Grimming,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8960,Öblarn,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8961,Stein an der Enns,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8962,Gröbming,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8963,Sankt Nikolai im Sölktal,St,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+8965,Pruggern,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8966,Aich-Assach,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8967,Haus,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8970,Schladming,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8971,Rohrmoos-Untertal,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8972,Ramsau,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8973,Pichl,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8974,Mandling,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8982,Tauplitz,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8983,Bad Mitterndorf,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8984,Kainisch,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+8990,Bad Aussee,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8992,Altaussee,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+8993,Grundlsee,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9000,Villach,K,01.08.2009,,PLZ-Postfach,extern,Nein,Ja
+9010,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9020,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9021,Klagenfurt am Wörthersee Postfach,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9022,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9023,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9024,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9025,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9026,Klagenfurt am Wörthersee,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9027,Klagenfurt,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9028,Klagenfurt,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9029,Klagenfurt,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9031,Klagenfurt,K,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+9033,Klagenfurt,K,01.03.2012,,PLZ-Postfach,extern,Nein,Ja
+9034,Klagenfurt,K,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+9035,Klagenfurt,K,01.12.2012,,PLZ-Postfach,extern,Nein,Ja
+9061,Klagenfurt-Wölfnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9062,Moosburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9063,Maria Saal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9064,Pischeldorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9065,Ebenthal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9071,Köttmannsdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9072,Ludmannsdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9073,Klagenfurt-Viktring,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9074,Keutschach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9081,Reifnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9082,Maria Wörth,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9100,Völkermarkt,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9102,Mittertrixen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9103,Diex,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9104,Pustritz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9111,Haimburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9112,Griffen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9113,Ruden,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9121,Tainach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9122,St. Kanzian,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9123,St. Primus,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9125,Kühnsdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9130,Poggersdorf,K,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+9131,Grafenstein,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9132,Gallizien,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9133,Sittersdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9135,Bad Eisenkappel,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9141,Eberndorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9142,Globasnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9143,St. Michael ob Bleiburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9150,Bleiburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9155,Neuhaus,K,01.01.2007,,PLZ-Adressierung,extern,Ja,Nein
+9161,Maria Rain,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9162,Strau,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9163,Unterbergen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9170,Ferlach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9171,Waidisch,K,01.06.2010,,PLZ-Postfach,extern,Nein,Ja
+9172,Zell-Pfarre,K,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+9173,St. Margareten im Rosental,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9181,Feistritz im Rosental,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9182,Maria Elend,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9183,Rosenbach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9184,St. Jakob im Rosental,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9201,Krumpendorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9210,Pörtschach am Wörther See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9212,Techelsberg am Wörther See,K,01.03.2006,,PLZ-Adressierung,extern,Ja,Nein
+9220,Velden am Wörther See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9231,Köstenberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9232,Rosegg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9241,Wernberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9300,St. Veit an der Glan,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9302,St. Veit an der Glan,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9311,Kraig,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9312,Meiselding,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9313,St. Georgen am Längsee,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9314,Launsdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9321,Kappel am Krappfeld,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9322,Micheldorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9323,Wildbad Einöd,St,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9324,Passering,K,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+9330,Treibach-Althofen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9334,Guttaring,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9335,Lölling,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9341,Straßburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9342,Gurk,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9343,Zweinitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9344,Weitensfeld,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9345,Kleinglödnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9346,Glödnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9360,Friesach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9361,St. Salvator,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9362,Grades,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9363,Metnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9371,Brückl,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9372,Eberstein,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9373,Klein St. Paul,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9374,Wieting,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9375,Hüttenberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9376,Knappenberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9400,Wolfsberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9402,"Wolfsberg, Kärnten",K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9411,St. Michael,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9412,St. Maragrethen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9413,St. Gertraud,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9421,Eitweg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9422,Maria Rojach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9423,St. Georgen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9431,St. Stefan,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9433,St. Andrä,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9441,Twimberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9451,Preitenegg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9461,Prebl,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9462,Bad St. Leonhard,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9463,Reichenfels,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9470,St. Paul,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9472,Ettendorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9473,Lavamünd,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9500,Villach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9501,Villach,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9502,Villach,K,01.01.2012,,PLZ-Postfach,extern,Nein,Ja
+9503,Villach,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9504,Villach-Warmbad Villach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9505,Villach,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9507,Villach,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9508,Villach,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9509,Zauchen,K,01.04.2011,,PLZ-Postfach,extern,Nein,Ja
+9510,Villach,K,01.07.2011,,PLZ-Postfach,extern,Nein,Ja
+9520,Sattendorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9521,Treffen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9523,Villach-Landskron,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9524,Villach-St. Magdalen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9530,Bad Bleiberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9531,Kreuth,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9535,Schiefling am Wörthersee,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9536,St. Egyden,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9541,Einöde,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9542,Afritz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9543,Arriach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9544,Feld am See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9545,Radenthein,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9546,Bad Kleinkirchheim,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9551,Bodensdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9552,Steindorf am Ossiacher See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9554,St. Urban,K,01.07.2007,,PLZ-Adressierung,extern,Ja,Nein
+9555,Glanegg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9556,Liebenfels,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9560,Feldkirchen in Kärnten,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9562,Himmelberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9563,Gnesau,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9564,Patergassen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9565,Ebene Reichenau,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9570,Ossiach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9571,Sirnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9572,Deutsch Griffen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9580,Villach-Drobollach am Faaker See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9581,Ledenitzen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9582,Latschach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9583,Faak am See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9584,Finkenstein,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9585,Gödersdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9586,Fürnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9587,Riegersdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9601,Arnoldstein,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9602,Thörl-Maglern,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9611,Nötsch,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9612,St. Georgen im Gailtal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9613,Feistritz an der Gail,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9614,Vorderberg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9615,Görtschach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9620,Hermagor,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9622,Weißbriach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9623,St. Stefan an der Gail,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9624,Egg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9625,St. Stefan an der Gail,K,01.09.2012,,PLZ-Postfach,extern,Nein,Ja
+9631,Jenig,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9632,Kirchbach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9633,Reisach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9634,Gundersheim,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9635,Dellach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9640,Kötschach-Mauthen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9642,Laas,K,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+9651,St. Jakob im Lesachtal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9652,Birnbaum,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9653,Liesing,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9654,St. Lorenzen im Lesachtal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9655,Maria Luggau,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9701,Rothenthurn,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9702,Ferndorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9710,Feistritz an der Drau,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9711,Paternion,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9712,Fresach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9713,Zlan,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9714,Stockenboi,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9721,Weißenstein,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9722,Gummern,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9751,Sachsenburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9753,Lind im Drautal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9754,Steinfeld,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9761,Greifenburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9762,Weißensee,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9771,Berg im Drautal,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9772,Dellach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9773,Irschen,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9774,Simmerlach,K,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+9781,Oberdrauburg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9782,Nikolsdorf,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9800,Spittal an der Drau,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9802,Spittal an der Drau,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9803,Spittal an der Drau,K,01.01.1966,,PLZ-Postfach,extern,Nein,Ja
+9805,Baldramsdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9811,Lendorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9812,Pusarnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9813,Möllbrücke,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9814,Mühldorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9815,Kolbnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9816,Penk,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9821,Obervellach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9822,Mallnitz,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9831,Flattach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9832,Stall,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9833,Rangersdorf,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9841,Winklern,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9842,Mörtschach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9843,Großkirchheim,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9844,Heiligenblut,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9851,Lieserbrücke,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9852,Trebesing,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9853,Gmünd,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9854,Malta,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9861,Eisentratten,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9862,Kremsbrücke,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9863,Rennweg,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9871,Seeboden,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9872,Millstatt am See,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9873,Döbriach,K,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9900,Lienz,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9903,Oberlienz,T,01.10.2011,,PLZ-Adressierung,extern,Ja,Nein
+9904,Thurn,T,21.09.2008,,PLZ-Adressierung,extern,Ja,Nein
+9905,Gaimberg,T,01.10.2009,,PLZ-Adressierung,extern,Ja,Nein
+9906,Lavant,T,01.07.2011,,PLZ-Adressierung,extern,Ja,Nein
+9907,Tristach,T,01.07.2010,,PLZ-Adressierung,extern,Ja,Nein
+9908,Amlach,T,01.09.2012,,PLZ-Adressierung,extern,Ja,Nein
+9909,Leisach,T,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
+9911,Assling,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9912,Anras,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9913,Abfaltersbach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9918,Strassen,T,01.04.2011,,PLZ-Adressierung,extern,Ja,Nein
+9919,Heinfels,T,01.01.2011,,PLZ-Adressierung,extern,Ja,Nein
+9920,Sillian,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9922,Strassen,T,01.07.2010,,PLZ-Postfach,extern,Nein,Ja
+9931,Außervillgraten,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9932,Innervillgraten,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9941,Kartitsch,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9942,Obertilliach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9943,Untertilliach,T,01.01.2009,,PLZ-Adressierung,extern,Ja,Nein
+9951,Ainet,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9952,St. Johann im Walde,T,01.01.2010,,PLZ-Adressierung,extern,Ja,Nein
+9953,Huben,T,01.01.1966,01.09.2005,PLZ-Historisch,intern,Nein,Nein
+9954,Schlaiten,T,01.10.2007,,PLZ-Adressierung,extern,Ja,Nein
+9961,Hopfgarten in Defereggen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9962,St. Veit,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9963,St. Jakob in Defereggen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9971,Matrei in Osttirol,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9972,Virgen,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9974,Prägraten,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9981,Kals,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9990,Nußdorf-Debant,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Nein
+9991,Dölsach,T,01.01.1966,,PLZ-Adressierung,extern,Ja,Ja
+9992,Iselsberg-Stronach,T,01.07.2009,,PLZ-Adressierung,extern,Ja,Nein
